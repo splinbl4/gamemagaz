@@ -1,3 +1,7 @@
+#Laravel
+Интернет магазин на Laravel для учебных целей.
+Находится в процессе разработки.
+
 #Список URL для ознакомления с версткой
 http://localhost:8000/samples/news/list
 http://localhost:8000/samples/news/single
